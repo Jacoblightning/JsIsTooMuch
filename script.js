@@ -1,1 +1,3 @@
-console.log('Hello, World!')
+let a;
+
+document.getElementById("a").innerHTML=a;
